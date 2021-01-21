@@ -21,6 +21,11 @@
  
 #### Application
 
+- Origin Image
+<p align="center">
+  <img src="imgs/org1.png">
+</p>
+
 - MaxPooling
 <p align="center">
   <img src="imgs/ref1.png">
@@ -37,6 +42,11 @@
 </p>
 
 #### Basic
+
+- Origin Image
+<p align="center">
+  <img src="imgs/org2.png">
+</p>
 
 - MaxPooling
 <p align="center">
