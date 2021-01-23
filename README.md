@@ -26,18 +26,18 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 1  | Conv2D       | Conv2D         | Conv2D               | Conv2D                   |
 | 2  | ReLU         | **Leaky_ReLU** | ReLU                 | ReLU                     |
-| 3  | MaxPooling2D | MaxPooling2D   | **AveragePooling2D** | MaxPooling2D             |
+| 3  | MaxPooling2D | MaxPooling2D   | **AveragePooling2D** | **MaxAvgPooling2D(1,1)** |
 | 4  | Conv2D       | Conv2D         | Conv2D               | Conv2D                   |
 | 5  | ReLU         | **Leaky_ReLU** | ReLU                 | ReLU                     |
-| 6  | Maxpooling2D | Maxpooling2D   | **Averagepooling2D** | Maxpooling2D             |
+| 6  | Maxpooling2D | Maxpooling2D   | **Averagepooling2D** | **MaxAvgPooling2D(1,1)** |
 | 7  | Conv2D       | Conv2D         | Conv2D               | Conv2D                   |
 | 8  | ReLU         | **Leaky_ReLU** | ReLU                 | ReLU                     |
-| 9  | MaxPooling2D | MaxPooling2D   | **AveragePooling2D** | MaxPooling2D             |
+| 9  | MaxPooling2D | MaxPooling2D   | **AveragePooling2D** | **MaxAvgPooling2D(1,1)** |
 | 10 | Flatten      | Flatten        | Flatten              | Flatten                  |
 | 11 | Dense        | Dense          | Dense                | Dense                    |
-| 12 | Dropout(0.4) | Dropout(0.4)   | Dropout(0.4)         | **GaussianDropout(0.4)** |
+| 12 | Dropout(0.4) | Dropout(0.4)   | Dropout(0.4)         | Dropout(0.4)             |
 | 13 | Dense        | Dense          | Dense                | Dense                    |
-| Epoch_15_Accuracy<br>- Loss<br>- Train / Test | 0.00246471<br>0.9994 / 0.9936 | 0.00208529<br>0.9994 / 0.9934 | 0.00679290<br>0.9986 / 0.9929 | 0.00541235<br>0.9994 / 0.9917 |
+| Epoch_15_Accuracy<br>- Loss<br>- Train / Test | 0.00246471<br>0.9994 / 0.9936 | 0.00208529<br>0.9994 / 0.9934 | 0.00679290<br>0.9986 / 0.9929 | 0.00359770<br>0.9991 / 0.9930 |
 
 ## Application
 
