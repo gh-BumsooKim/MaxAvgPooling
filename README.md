@@ -66,9 +66,19 @@ MaxAvgPooling2D(
   <img src="imgs/ref2.png">
 </p>
 
-- **MaxPooling : AveragePooling = 3 : 2**
+- **MaxPooling : AveragePooling = 1 : 1**
 <p align="center">
   <img src="imgs/ref3.png">
+</p>
+
+- **Pooling \*3**
+<p align="center">
+  <img src="imgs/ref5.png">
+</p>
+
+- **Pooling \*6**
+<p align="center">
+  <img src="imgs/ref6.png">
 </p>
 
 ## Basic
