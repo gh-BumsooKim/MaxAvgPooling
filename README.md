@@ -68,17 +68,7 @@
   <img src="imgs/org2.png">
 </p>
 
-- MaxPooling
+- MaxPooling / AveragePooling / **MaxPooling : AveragePooling = 1 : 1**
 <p align="center">
   <img src="imgs/ref4.png">
-</p>
-
-- AveragePooling
-<p align="center">
-  <img src="imgs/ref5.png">
-</p>
-
-- **MaxPooling : AveragePooling = 3 : 2**
-<p align="center">
-  <img src="imgs/ref6.png">
 </p>
