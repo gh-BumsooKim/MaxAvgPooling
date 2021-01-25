@@ -59,6 +59,10 @@ MaxAvgPooling2D(
 
 ## Application
 
+### \**Application with Web Code is [Here](https://github.com/russ82/Deepedeepe) connected with KakaoTalk.*
+
+<br>
+
 - Origin Image
 <p align="center">
   <img src="imgs/org1.png">
