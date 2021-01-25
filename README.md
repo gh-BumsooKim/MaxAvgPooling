@@ -30,6 +30,8 @@ MaxAvgPooling2D(
 )
 ```
 
+## Result
+
 #### Comparison Test Table (Using [Mnist DataSet](https://en.wikipedia.org/wiki/MNIST_database))
 
 | index | 1 (Default) | 2 | 3 | 4 |
@@ -48,6 +50,12 @@ MaxAvgPooling2D(
 | 12 | Dropout(0.4) | Dropout(0.4)   | Dropout(0.4)         | Dropout(0.4)               |
 | 13 | Dense        | Dense          | Dense                | Dense                      |
 | Epoch_15_Accuracy<br>- Loss<br>- Train / Test | 0.00246471<br>0.9994 / 0.9936 | 0.00208529<br>0.9994 / 0.9934 | 0.00679290<br>0.9986 / 0.9929 | 0.00359770<br>0.9991 / 0.9930 |
+
+#### Comparison Based on MobileNetV2 (Using [Landmark Image](https://dacon.io/competitions/official/235585/data/))
+
+<p align="center">
+  <img src="imgs/mbn_01.png"  width="70%" height="70%">
+</p>
 
 ## Application
 
