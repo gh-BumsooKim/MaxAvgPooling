@@ -12,7 +12,7 @@
 - pip install opencv-python==4.0.0.21
 - conda install pandas
 
-#### Fraemworks
+#### Frameworks
 
 - keras
 
