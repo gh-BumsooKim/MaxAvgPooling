@@ -6,15 +6,19 @@
 
 #### Environment
 
-- conda create python=3.6.12
-- conda install tensorflow==2.1.0
-- conda install matplotlib 
-- pip install opencv-python==4.0.0.21
-- conda install pandas
+Using [Anaconda](https://www.anaconda.com/). 
+
+```cmd
+(env_name) C:> conda create python=3.6.12
+(env_name) C:> conda install tensorflow==2.1.0
+(env_name) C:> conda install matplotlib 
+(env_name) C:> pip install opencv-python==4.0.0.21
+(env_name) C:> conda install pandas
+```
 
 #### Frameworks
 
-- keras
+- keras(tensorflow)
 
 #### DataSet
 
@@ -50,6 +54,8 @@ MaxAvgPooling2D(
 | 12 | Dropout(0.4) | Dropout(0.4)   | Dropout(0.4)         | Dropout(0.4)               |
 | 13 | Dense        | Dense          | Dense                | Dense                      |
 | Epoch_15_Accuracy<br>- Loss<br>- Train / Test | 0.00246471<br>0.9994 / 0.9936 | 0.00208529<br>0.9994 / 0.9934 | 0.00679290<br>0.9986 / 0.9929 | 0.00359770<br>0.9991 / 0.9930 |
+
+<br>
 
 #### Comparison Based on MobileNetV2 (Using [Landmark Image](https://dacon.io/competitions/official/235585/data/))
 
