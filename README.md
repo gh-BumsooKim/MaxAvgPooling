@@ -1,4 +1,4 @@
-# landmark-classification
+# MaxAvgPooling
 
 *CUAI - Deep Learning, Deep2Deep2Deep*
 
