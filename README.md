@@ -2,7 +2,13 @@
 
 *CUAI - Deep Learning, Deep2Deep2Deep*
 
-### [Paper]() | [Site]() 
+### [Paper](http://nciss.or.kr/conference/file_down.asp?file_idx=517) | [Site](http://ngcists.org/conference/proceeding_info.asp?journal_idx=1069) 
+
+**A comparative study of MaxAvgPooling ensemble learning for maintaining stable feature maps of convolutional neural network**
+<br>[BumSoo Kim](https://github.com/gh-BumsooKim)\*
+<br>Graphics Realization Lab, CAU
+<br>In Proceedings Vol.4 No.13 PP.49-52 NCISS 2021 (* CAU A&T)
+
 
 #### Environment
 
