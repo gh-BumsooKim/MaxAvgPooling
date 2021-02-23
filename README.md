@@ -4,6 +4,10 @@
 
 ### [Paper](http://nciss.or.kr/conference/file_down.asp?file_idx=517) | [Site](http://ngcists.org/conference/proceeding_info.asp?journal_idx=1069) 
 
+<p align="center">
+  <img src="imgs/main1.png"  width="80%" height="80%">
+</p>
+
 **A comparative study of MaxAvgPooling ensemble learning for maintaining stable feature maps of convolutional neural network**
 <br>[BumSoo Kim](https://github.com/gh-BumsooKim)\*
 <br>Graphics Realization Lab, CAU
